@@ -1,4 +1,4 @@
-# PairCodingSession
+# PairCodingSession [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/geegog/pair_coding_session)
 
 **TODO: Add description**
 
