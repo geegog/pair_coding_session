@@ -5,4 +5,8 @@ defmodule PairCodingSessionTest do
   test "greets the world" do
     assert PairCodingSession.hello() == :world
   end
+
+  test "greets the world with wrong message" do
+    assert PairCodingSession.hello() == :hello
+  end
 end
